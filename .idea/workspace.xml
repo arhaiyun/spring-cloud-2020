@@ -3,47 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="94bb4ff5-97b9-45c9-8df6-a75f136d59e8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter-test/spring-boot-08-starter-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/atguigu-spring-boot-starter/atguiguspringbootstarter.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../awesome-java-leetcode" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java-best-practice/java-best-practice.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/main/java/com/exodus/design_patterns/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/main/java/com/exodus/leetcode/others/CountListIntegerSum.java" afterDir="false" />
@@ -311,23 +272,159 @@
       <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master/visitor/src/main/java/me/zbl/visitor/ManagerVisitor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master/visitor/src/main/java/me/zbl/visitor/Unit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master/visitor/src/main/java/me/zbl/visitor/UnitVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../python-projects/data-science-ipython-notebooks-master/.idea/data-science-ipython-notebooks-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../python-projects/matplotlib-tutorial-master/.idea/matplotlib-tutorial-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tuling-projects/tuling-redis/redis-client/redis-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tuling-projects/tuling-redis/redis-protocol/redis-protocol.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tuling-projects/tuling-redis/rediscluster-client/rediscluster-client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/Java_Best_Practices.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springcloud-2020/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springcloud-2020/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springcloud-2020/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/bean/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../data-science-ipython-notebooks-master/.idea/data-science-ipython-notebooks-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../matplotlib-tutorial-master/.idea/matplotlib-tutorial-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring-annotation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring-annotation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring-annotation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/eiletxie/springcloud/entities/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/eiletxie/springcloud/entities/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/eiletxie/springcloud/ConfigCenterMain3344.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/exodus/springcloud/ConfigCenterMain3344.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/eiletxie/springcloud/ConfigClientMain3355.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/exodus/springcloud/ConfigClientMain3355.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/eiletxie/springcloud/controller/ConfigClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/exodus/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/eiletxie/springcloud/ConfigClientMain3366.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/exodus/springcloud/ConfigClientMain3366.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/eiletxie/springcloud/controller/ConfigClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/exodus/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/eiletxie/springcloud/OrderHystrixMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/OrderHystrixMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/eiletxie/springcloud/controller/OrderHystrixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/controller/OrderHystrixController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/eiletxie/springcloud/service/PaymentFallbackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/service/PaymentFallbackService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/eiletxie/springcloud/service/PaymentHystrixService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/service/PaymentHystrixService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/eiletxie/springcloud/OrderFeignMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/OrderFeignMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/eiletxie/springcloud/config/FeignConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/config/FeignConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/eiletxie/springcloud/controller/OrderFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/controller/OrderFeignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/eiletxie/springcloud/service/PaymentFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/service/PaymentFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/java/com/eiletxie/springcloud/HystrixDashboardMain9001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/java/com/exodus/springcloud/HystrixDashboardMain9001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/eiletxie/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/OrderMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/eiletxie/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/eiletxie/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/eiletxie/springcloud/lb/LoadBalancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/LoadBalancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/eiletxie/springcloud/lb/MyLB.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/MyLB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/eiletxie/springcloud/OrderConsulMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/OrderConsulMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/eiletxie/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/eiletxie/springcloud/controller/OrderConsulController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/controller/OrderConsulController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/eiletxie/springcloud/OrderZKMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/OrderZKMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/eiletxie/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/eiletxie/springcloud/controller/OrderZKController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/controller/OrderZKController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/eiletxie/springcloud/EurekaMain7001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/exodus/springcloud/EurekaMain7001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/eiletxie/springcloud/EurekaMain7002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/exodus/springcloud/EurekaMain7002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/eiletxie/springcloud/GatewayMain9527.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/GatewayMain9527.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/eiletxie/springcloud/config/GatewayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/config/GatewayConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/eiletxie/springcloud/filter/MyLogGatewayFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/filter/MyLogGatewayFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/eiletxie/springcloud/PaymentHystrixMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/PaymentHystrixMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/eiletxie/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/eiletxie/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/eiletxie/springcloud/PaymentMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/PaymentMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/eiletxie/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/eiletxie/springcloud/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/dao/PaymentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/eiletxie/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/eiletxie/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/eiletxie/springcloud/PaymentMain8002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/PaymentMain8002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/eiletxie/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/eiletxie/springcloud/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/dao/PaymentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/eiletxie/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/eiletxie/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/eiletxie/springcloud/Payment8004.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/Payment8004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/eiletxie/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/eiletxie/springcloud/PaymentConsul8006.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/PaymentConsul8006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/eiletxie/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/eiletxie/springcloud/StreamMQMain8802.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/exodus/springcloud/StreamMQMain8802.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/eiletxie/springcloud/controller/ReceiverMessageListenerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/exodus/springcloud/controller/ReceiverMessageListenerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/eiletxie/springcloud/StreamMQMain8803.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/exodus/springcloud/StreamMQMain8803.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/eiletxie/springcloud/controller/ReceiverMessageListenerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/exodus/springcloud/controller/ReceiverMessageListenerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/eiletxie/springcloud/StreamMQMain8801.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/StreamMQMain8801.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/eiletxie/springcloud/controller/SendMessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/controller/SendMessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/eiletxie/springcloud/service/IMessageProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/service/IMessageProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/eiletxie/springcloud/service/impl/MessageProviderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/service/impl/MessageProviderImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/eiletxie/springcloud/alibaba/NacosConfigClientMain3377.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/exodus/springcloud/alibaba/NacosConfigClientMain3377.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/eiletxie/springcloud/alibaba/config/ConfigClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/exodus/springcloud/alibaba/config/ConfigClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/eiletxie/springcloud/alibaba/OrderNacosMain83.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/exodus/springcloud/alibaba/OrderNacosMain83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/eiletxie/springcloud/alibaba/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/exodus/springcloud/alibaba/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/eiletxie/springcloud/alibaba/controller/OrderNacosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/exodus/springcloud/alibaba/controller/OrderNacosController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/OrderMain84.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/OrderMain84.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/controller/CircleBreakerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/controller/CircleBreakerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/service/PaymentFallbackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/service/PaymentFallbackService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/eiletxie/springcloud/ailibaba/PaymentMain9001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/exodus/springcloud/ailibaba/PaymentMain9001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/eiletxie/springcloud/ailibaba/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/exodus/springcloud/ailibaba/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/eiletxie/springcloud/ailibaba/PaymentMain9002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/exodus/springcloud/ailibaba/PaymentMain9002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/eiletxie/springcloud/ailibaba/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/exodus/springcloud/ailibaba/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/eiletxie/springcloud/alibaba/PaymentMain9003.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/exodus/springcloud/alibaba/PaymentMain9003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/eiletxie/springcloud/alibaba/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/exodus/springcloud/alibaba/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/eiletxie/springcloud/alibaba/PaymentMain9004.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/exodus/springcloud/alibaba/PaymentMain9004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/eiletxie/springcloud/alibaba/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/exodus/springcloud/alibaba/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/eiletxie/springcloud/alibaba/MainApp8401.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/MainApp8401.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/eiletxie/springcloud/alibaba/controller/FlowLimitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/controller/FlowLimitController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/eiletxie/springcloud/alibaba/controller/RateLimitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/controller/RateLimitController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/eiletxie/springcloud/alibaba/myhandler/CustomerBlockHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/myhandler/CustomerBlockHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/SeataAccountMain2003.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/SeataAccountMain2003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/config/DataSourceProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/config/DataSourceProxyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/config/MyBatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/dao/AccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/domain/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/domain/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/domain/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/mapper/AccountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/mapper/AccountMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/SeataOrderMain2001.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/SeataOrderMain2001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/config/DataSourceProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/config/DataSourceProxyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/config/MyBatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/dao/OrderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/dao/OrderDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/domain/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/domain/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/domain/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/IdGeneratorSnowflake.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/IdGeneratorSnowflake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/StorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/StorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/SeataStorageMain2002.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/SeataStorageMain2002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/config/DataSourceProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/config/DataSourceProxyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/config/MyBatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/controller/StorageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/controller/StorageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/dao/StorageDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/dao/StorageDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/domain/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/domain/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/domain/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/domain/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/service/StorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/service/StorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/StorageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/service/impl/StorageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/mapper/StorageMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/mapper/StorageMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-annotation/src/main/java/com/exodus/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/LICENSE" beforeDir="false" />
@@ -436,52 +533,6 @@
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/spring-bean/src/main/resources/META-INF/bean-instantiation-context.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/spring-bean/src/main/resources/META-INF/services/org.geekbang.thinking.in.spring.bean.factory.UserFactory" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/spring-bean/src/main/resources/META-INF/special-bean-instantiation-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld-quick/spring-boot-01-helloworld-quick.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-02-config-02/spring-boot-02-config-02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-02-config-autoconfig/spring-boot-02-config-autoconfig.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-02-config/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-02-config/spring-boot-02-config.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-03-logging/spring-boot-03-logging.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-08-starter-test/spring-boot-08-starter-test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-08-starter/atguigu-spring-boot-starter/atguiguspringbootstarter.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -500,7 +551,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -545,7 +596,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3534884" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -884,14 +935,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="采用Seata来解决 订单、账户、库存微服务之间的全局事务问题" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2726" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588169453169">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2726" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588169453169" />
     <state x="1409" y="118" key="FileChooserDialogImpl" timestamp="1588065718639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1409" y="118" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588065718639" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1588065734699">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1588067517514">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588065734699" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588067517514" />
+    <state x="636" y="253" width="688" height="534" key="find.popup" timestamp="1588167329128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="688" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167329128" />
+    <state x="334" y="215" key="new project wizard" timestamp="1588167748818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="215" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167748818" />
   </component>
   <component name="masterDetails">
     <states>

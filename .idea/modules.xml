@@ -23,7 +23,6 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cloud2020.iml" filepath="$PROJECT_DIR$/cloud2020.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" filepath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" filepath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/cloudalibaba-consumer-nacos-order84.iml" filepath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/cloudalibaba-consumer-nacos-order84.iml" />
@@ -35,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/seata-account-service2003/seata-account-service2003.iml" filepath="$PROJECT_DIR$/seata-account-service2003/seata-account-service2003.iml" />
       <module fileurl="file://$PROJECT_DIR$/seata-order-service2001/seata-order-service2001.iml" filepath="$PROJECT_DIR$/seata-order-service2001/seata-order-service2001.iml" />
       <module fileurl="file://$PROJECT_DIR$/seata-storage-service2002/seata-storage-service2002.iml" filepath="$PROJECT_DIR$/seata-storage-service2002/seata-storage-service2002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-2020.iml" filepath="$PROJECT_DIR$/spring-cloud-2020.iml" />
     </modules>
   </component>
 </project>
