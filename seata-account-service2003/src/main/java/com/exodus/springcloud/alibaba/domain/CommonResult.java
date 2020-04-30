@@ -5,8 +5,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/18 22:57
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @Data
 @AllArgsConstructor
@@ -17,7 +17,8 @@ public class CommonResult<T> {
     private T data;
 
     public CommonResult(Integer code, String message) {
-        this(code, message, null);
+        this.code = code;
+        this.message = message;
     }
 }
 

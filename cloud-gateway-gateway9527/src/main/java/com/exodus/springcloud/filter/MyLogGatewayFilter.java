@@ -19,22 +19,28 @@ import java.util.Date;
 @Slf4j
 public class MyLogGatewayFilter implements GlobalFilter, Ordered {
 
-
+    /**
+     * @param exchange
+     * @param chain
+     * @return
+     */
     @Override
-    public Mono< Void > filter(ServerWebExchange exchange, GatewayFilterChain chain) {
+    public Mono<Void> filter(ServerWebExchange exchange, GatewayFilterChain chain) {
         log.info("****** come in MyLogGateWayFilter: " + new Date());
 
         String uname = exchange.getRequest().getQueryParams().getFirst("uname");
-        if(uname == null) {
-          log.info("*****用户名为null，非法用户，o(╥﹏╥)o");
-          exchange.getResponse().setStatusCode(HttpStatus.NOT_ACCEPTABLE);
-          return exchange.getResponse().setComplete();
+        if (uname == null) {
+            log.info("*****用户名为null，非法用户，o(╥﹏╥)o");
+            exchange.getResponse().setStatusCode(HttpStatus.NOT_ACCEPTABLE);
+            return exchange.getResponse().setComplete();
         }
+
         return chain.filter(exchange);
     }
 
     /**
      * 加载过滤器的顺序，数字越小，优先级越高
+     *
      * @return
      */
     @Override

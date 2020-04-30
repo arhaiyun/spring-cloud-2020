@@ -6,10 +6,9 @@ import lombok.NoArgsConstructor;
 
 /**
  * @Author arhaiyun
- * @Since 2020/3/9 13:52
+ * @Since 2020/4/30 13:52
  */
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
 public class CommonResult<T> {
     // 404 not found
@@ -18,6 +17,13 @@ public class CommonResult<T> {
     private T data;
 
     public CommonResult(Integer code, String message) {
-        this(code, message, null);
+        this.code = code;
+        this.message = message;
+    }
+
+    public CommonResult(Integer code, String message, T data) {
+        this.code = code;
+        this.message = message;
+        this.data = data;
     }
 }
