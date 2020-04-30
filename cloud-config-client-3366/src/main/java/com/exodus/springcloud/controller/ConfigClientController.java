@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/13 21:35
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @RestController
 @RefreshScope

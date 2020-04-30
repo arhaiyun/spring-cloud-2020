@@ -9,7 +9,7 @@ spring:
       server:
         git:
           #uri: git@github.com:EiletXie/config-repo.git #Github上的git仓库名字
-          uri: https://github.com/exodus/config-repo.git
+          uri: https://github.com/arhaiyun/springcloud-config.git
           ##搜索目录.这个目录指的是github上的目录
           search-paths:
             - config-repo

@@ -279,16 +279,9 @@
       <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/bean/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/CommonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/exodus/springcloud/ConfigCenterMain3344.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/exodus/springcloud/ConfigCenterMain3344.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/exodus/springcloud/ConfigClientMain3355.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/exodus/springcloud/ConfigClientMain3355.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/exodus/springcloud/controller/ConfigClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/exodus/springcloud/controller/ConfigClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/filter/MyLogGatewayFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/filter/MyLogGatewayFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/domain/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/domain/CommonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/domain/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/domain/CommonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/domain/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/domain/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/exodus/springcloud/ConfigClientMain3366.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/exodus/springcloud/ConfigClientMain3366.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/exodus/springcloud/controller/ConfigClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/exodus/springcloud/controller/ConfigClientController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-annotation/src/main/java/com/exodus/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/LICENSE" beforeDir="false" />
@@ -418,6 +411,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="seata-storage-service2002/invalid/Spring" />
+    </ignored-facets>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -470,7 +468,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3534884" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -491,13 +489,39 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T2">
-    <configuration name="IdGeneratorSnowflake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.eiletxie.springcloud.alibaba.service.IdGeneratorSnowflake" />
-      <module name="seata-order-service2001" />
+  <component name="RunManager" selected="Application.ConfigClientMain3355">
+    <configuration name="ConfigCenterMain3344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.ConfigCenterMain3344" />
+      <module name="cloud-config-center-3344" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.eiletxie.springcloud.alibaba.service.*" />
+          <option name="PATTERN" value="com.exodus.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3355" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.ConfigClientMain3355" />
+      <module name="cloud-config-client-3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exodus.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.EurekaMain7001" />
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exodus.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -672,35 +696,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeataAccountMain2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="seata-account-service2003" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eiletxie.springcloud.alibaba.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.SeataAccountMain2003" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SeataOrderMain2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="seata-order-service2001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.SeataOrderMain2001" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SeataStorageMain2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="seata-storage-service2002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eiletxie.springcloud.alibaba.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.SeataStorageMain2002" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -728,9 +726,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConfigClientMain3355" />
+        <item itemvalue="Application.ConfigCenterMain3344" />
+        <item itemvalue="Application.EurekaMain7001" />
         <item itemvalue="Application.T2" />
         <item itemvalue="Application.PaymentMain8001" />
-        <item itemvalue="Application.IdGeneratorSnowflake" />
       </list>
     </recent_temporary>
   </component>
@@ -826,32 +826,48 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1409" y="118" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588065718639" />
+    <state width="1877" height="564" key="GridCell.Tab.0.bottom" timestamp="1588244050566">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="564" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588244050566" />
+    <state width="1877" height="564" key="GridCell.Tab.0.center" timestamp="1588244050565">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="564" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588244050565" />
+    <state width="1877" height="564" key="GridCell.Tab.0.left" timestamp="1588244050565">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="564" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588244050565" />
+    <state width="1877" height="564" key="GridCell.Tab.0.right" timestamp="1588244050566">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="564" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588244050566" />
     <state x="2451" y="182" key="Registry" timestamp="1588171049895">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2451" y="182" key="Registry/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588171049895" />
-    <state x="2381" y="162" key="SettingsEditor" timestamp="1588241920132">
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1588243323769">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588067517514" />
-    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588241920132" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588243323769" />
     <state x="2560" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588217287540">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2560" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588217287540" />
-    <state x="3010" y="242" width="773" height="534" key="find.popup" timestamp="1588227761935">
+    <state x="3010" y="242" width="773" height="534" key="find.popup" timestamp="1588242480381">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="253" width="688" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167329128" />
-    <state x="3010" y="242" width="773" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588227761935" />
+    <state x="3010" y="242" width="773" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588242480381" />
     <state x="334" y="215" key="new project wizard" timestamp="1588167748818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="334" y="215" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167748818" />
-    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1588240945363">
+    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1588242118847">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588240945363" />
+    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588242118847" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
