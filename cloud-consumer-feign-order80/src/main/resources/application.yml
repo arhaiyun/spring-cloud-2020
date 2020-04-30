@@ -20,4 +20,4 @@ ribbon:
 logging:
   level:
     #feign日志以什么级别监控那个接口
-    com.eiletxie.springcloud.service.PaymentFeignService: debug
+    com.exodus.springcloud.service.PaymentFeignService: debug

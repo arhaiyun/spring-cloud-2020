@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/11 13:35
+ * @Author arhaiyun
+ * @Since 2020/4/30 13:35
  */
 @Component
 @FeignClient(value = "CLOUD-PAYMENT-SERVICE")

@@ -6,8 +6,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 
 /**
- * @Author EiletXie
- * @Since 2020/3/10 20:12
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @SpringBootApplication
 @EnableDiscoveryClient

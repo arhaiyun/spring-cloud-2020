@@ -8,21 +8,21 @@ import org.springframework.web.client.RestTemplate;
 import javax.annotation.Resource;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/10 16:27
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @RestController
 @Slf4j
 public class OrderZKController {
 
-    private static  final String INVOKE_URL = "http://cloud-provider-payment";
+    private static final String INVOKE_URL = "http://cloud-provider-payment";
 
     @Resource
     private RestTemplate restTemplate;
 
     @GetMapping(value = "/consumer/payment/zk")
     public String paymentInfo() {
-        String result = restTemplate.getForObject(INVOKE_URL+"/payment/zk",String.class);
+        String result = restTemplate.getForObject(INVOKE_URL + "/payment/zk", String.class);
         return result;
     }
 }

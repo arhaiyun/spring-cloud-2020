@@ -12,5 +12,4 @@ public interface LoadBalancer {
 
     ServiceInstance instances(List<ServiceInstance> serviceInstances);
 
-
 }

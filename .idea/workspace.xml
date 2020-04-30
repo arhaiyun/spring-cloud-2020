@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="94bb4ff5-97b9-45c9-8df6-a75f136d59e8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../awesome-java-leetcode" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/pom.xml" afterDir="false" />
@@ -280,22 +279,32 @@
       <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/bean/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/CommonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/exodus/springcloud/entities/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/eiletxie/myrule/MySelfRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/myrule/MySelfRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/OrderFeignMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/OrderFeignMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/config/FeignConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/config/FeignConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/controller/OrderFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/controller/OrderFeignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/service/PaymentFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/service/PaymentFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/OrderMain80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/controller/OrderController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/LoadBalancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/LoadBalancer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/MyLB.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/MyLB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/exodus/springcloud/EurekaMain7001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/exodus/springcloud/EurekaMain7001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/exodus/springcloud/EurekaMain7002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/exodus/springcloud/EurekaMain7002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/PaymentMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/PaymentMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/OrderConsulMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/OrderConsulMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/controller/OrderConsulController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/controller/OrderConsulController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/OrderZKMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/OrderZKMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/controller/OrderZKController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/controller/OrderZKController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/config/GatewayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/config/GatewayConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/PaymentHystrixMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/PaymentHystrixMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/service/PaymentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/dao/PaymentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/Payment8004.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/Payment8004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/PaymentConsul8006.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/PaymentConsul8006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-annotation/src/main/java/com/exodus/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/LICENSE" beforeDir="false" />
@@ -414,10 +423,6 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
   </component>
-  <component name="ErrorTreeViewConfiguration">
-    <option name="hideWarnings" value="true" />
-    <option name="HIDE_WARNINGS" value="true" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -432,14 +437,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/software/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\software\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenRunner">
@@ -453,7 +453,6 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -818,6 +817,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2726" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588169453169" />
+    <state x="2560" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588217404581">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2560" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588217404581" />
     <state x="1409" y="118" key="FileChooserDialogImpl" timestamp="1588065718639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -831,19 +834,23 @@
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588067517514" />
     <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588171974970" />
-    <state x="2556" y="253" width="688" height="534" key="find.popup" timestamp="1588210239214">
+    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588217287540">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588217287540" />
+    <state x="3010" y="242" width="773" height="534" key="find.popup" timestamp="1588226356326">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="253" width="688" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167329128" />
-    <state x="2556" y="253" width="688" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588210239214" />
+    <state x="3010" y="242" width="773" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588226356326" />
     <state x="334" y="215" key="new project wizard" timestamp="1588167748818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="334" y="215" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167748818" />
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588169816346">
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588217349071">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588169816346" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588217349071" />
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="" />
