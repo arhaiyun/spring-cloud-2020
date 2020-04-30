@@ -1,4 +1,4 @@
-package com.eiletxie.myrule;
+package com.exodus.myrule;
 
 import com.netflix.loadbalancer.IRule;
 import com.netflix.loadbalancer.RandomRule;
@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @Author EiletXie
+ * @Author arhaiyun
  * @Since 2020/3/11 10:01
  */
 @Configuration

@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @Author EiletXie
+ * @Author arhaiyun
  * @Since 2020/3/9 14:03
  */
 @Configuration
@@ -15,6 +15,6 @@ public class ApplicationContextConfig {
     @Bean
 //    @LoadBalanced
     public RestTemplate getRestTemplate() {
-        return  new RestTemplate();
+        return new RestTemplate();
     }
 }

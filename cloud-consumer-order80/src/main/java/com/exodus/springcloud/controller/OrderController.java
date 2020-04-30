@@ -17,7 +17,7 @@ import java.net.URI;
 import java.util.List;
 
 /**
- * @Author EiletXie
+ * @Author arhaiyun
  * @Since 2020/3/9 13:51
  */
 @RestController
@@ -37,50 +37,51 @@ public class OrderController {
     private DiscoveryClient discoveryClient;
 
     @GetMapping("/consumer/payment/create")
-    public CommonResult< Payment > create(Payment payment) {
+    public CommonResult<Payment> create(Payment payment) {
         return restTemplate.postForObject(PAYMENT_URL + "/payment/create", payment, CommonResult.class);
     }
 
     @GetMapping("/consumer/payment/create2")
-    public CommonResult< Payment > create2(Payment payment) {
+    public CommonResult<Payment> create2(Payment payment) {
         ResponseEntity<CommonResult> entity = restTemplate.postForEntity(PAYMENT_URL + "/payment/create", payment, CommonResult.class);
-        if(entity.getStatusCode().is2xxSuccessful()){
+        if (entity.getStatusCode().is2xxSuccessful()) {
             return entity.getBody();
         } else {
-            return new CommonResult<>(444,"插入数据失败！");
+            return new CommonResult<>(444, "插入数据失败！");
         }
     }
 
     @GetMapping("/consumer/payment/get/{id}")
-    public CommonResult< Payment > getPayment(@PathVariable("id") Long id) {
+    public CommonResult<Payment> getPayment(@PathVariable("id") Long id) {
         return restTemplate.getForObject(PAYMENT_URL + "/payment/get/" + id, CommonResult.class);
     }
 
     @GetMapping("/consumer/payment/getForEntity/{id}")
-    public CommonResult< Payment > getPayment2(@PathVariable("id") Long id) {
+    public CommonResult<Payment> getPayment2(@PathVariable("id") Long id) {
         ResponseEntity<CommonResult> entity = restTemplate.getForEntity(PAYMENT_URL + "/payment/get/" + id, CommonResult.class);
 
-        if(entity.getStatusCode().is2xxSuccessful()) {
+        if (entity.getStatusCode().is2xxSuccessful()) {
             return entity.getBody();
         } else {
-            return new CommonResult<>(444,"操作失败！");
+            return new CommonResult<>(444, "操作失败！");
         }
     }
+
     @GetMapping("/consumer/payment/lb")
     public String getPaymentLB() {
         // 通过容器中的 discoveryClient和服务名来获取服务集群
         List<ServiceInstance> instances = discoveryClient.getInstances("CLOUD-PAYMENT-SERVICE");
-        if(instances == null || instances.size() <= 0) {
+        if (instances == null || instances.size() <= 0) {
             return null;
         }
         // 传入服务集群来计算出获取具体的服务实例
         ServiceInstance serviceInstance = loadBalancer.instances(instances);
         URI uri = serviceInstance.getUri();
-        return  restTemplate.getForObject(uri+"/payment/lb",String.class);
+        return restTemplate.getForObject(uri + "/payment/lb", String.class);
     }
 
-    @GetMapping(value="/consumer/payment/zipkin")
+    @GetMapping(value = "/consumer/payment/zipkin")
     public String paymentZipkin() {
-        return restTemplate.getForObject( "http://localhost:8001/payment/zipkin/",String.class);
+        return restTemplate.getForObject("http://localhost:8001/payment/zipkin/", String.class);
     }
 }
