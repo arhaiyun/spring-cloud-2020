@@ -6,8 +6,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/12 15:01
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @Configuration
 public class GatewayConfig {

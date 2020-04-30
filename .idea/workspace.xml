@@ -279,32 +279,17 @@
       <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/bean/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/OrderFeignMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/OrderFeignMain80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/config/FeignConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/config/FeignConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/controller/OrderFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/controller/OrderFeignController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/service/PaymentFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/exodus/springcloud/service/PaymentFeignService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/OrderMain80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/LoadBalancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/LoadBalancer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/MyLB.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/exodus/springcloud/lb/MyLB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/OrderConsulMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/OrderConsulMain80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/controller/OrderConsulController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/exodus/springcloud/controller/OrderConsulController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/OrderZKMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/OrderZKMain80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/controller/OrderZKController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/exodus/springcloud/controller/OrderZKController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/OrderHystrixMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/OrderHystrixMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/controller/OrderHystrixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/controller/OrderHystrixController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/service/PaymentFallbackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/service/PaymentFallbackService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/service/PaymentHystrixService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/service/PaymentHystrixService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/GatewayMain9527.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/GatewayMain9527.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/config/GatewayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/config/GatewayConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/PaymentHystrixMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/PaymentHystrixMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/filter/MyLogGatewayFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/exodus/springcloud/filter/MyLogGatewayFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/test/java/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/test/java/T2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/exodus/springcloud/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/Payment8004.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/Payment8004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/PaymentConsul8006.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/PaymentConsul8006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-annotation/src/main/java/com/exodus/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/LICENSE" beforeDir="false" />
@@ -472,7 +457,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3534884" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -493,7 +478,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PaymentMain8001">
+  <component name="RunManager" selected="Application.T2">
     <configuration name="IdGeneratorSnowflake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.eiletxie.springcloud.alibaba.service.IdGeneratorSnowflake" />
       <module name="seata-order-service2001" />
@@ -516,6 +501,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T2" />
+      <module name="cloud-gateway-gateway9527" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -667,19 +659,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMain9003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloudalibaba-provider-payment9003" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eiletxie.springcloud.alibaba.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.PaymentMain9003" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SeataAccountMain2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="seata-account-service2003" />
       <extension name="coverage">
@@ -736,6 +715,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2" />
         <item itemvalue="Application.PaymentMain8001" />
         <item itemvalue="Application.IdGeneratorSnowflake" />
       </list>
@@ -829,20 +809,20 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2451" y="182" key="Registry/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588171049895" />
-    <state x="2381" y="162" key="SettingsEditor" timestamp="1588171974970">
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1588238883231">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588067517514" />
-    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588171974970" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588238883231" />
     <state x="2560" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588217287540">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2560" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588217287540" />
-    <state x="3010" y="242" width="773" height="534" key="find.popup" timestamp="1588226356326">
+    <state x="3010" y="242" width="773" height="534" key="find.popup" timestamp="1588227761935">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="253" width="688" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167329128" />
-    <state x="3010" y="242" width="773" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588226356326" />
+    <state x="3010" y="242" width="773" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588227761935" />
     <state x="334" y="215" key="new project wizard" timestamp="1588167748818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -851,6 +831,20 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588217349071" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/exodus/springcloud/service/PaymentFallbackService.java</url>
+          <line>12</line>
+          <properties class="com.exodus.springcloud.service.PaymentFallbackService" method="paymentInfo_OK">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="" />

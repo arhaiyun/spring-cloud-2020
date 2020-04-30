@@ -22,8 +22,8 @@ spring:
           uri: lb://cloud-payment-service
           predicates:
           - Path=/payment/lb/** #断言,路径相匹配的进行路由
-          - After=2020-03-12T15:44:15.064+08:00[Asia/Shanghai]
-          #- Cookie=username,eiletxie   #带Cookie，并且username的值为eiletxie
+          - After=2020-04-30T15:44:15.064+08:00[Asia/Shanghai]
+          #- Cookie=username,exodus   #带Cookie，并且username的值为exodus
           #- Header=X-Request-Id,\d+ #请求头要有 X-Request-Id属性并且值为整数的正则表达式
 
 eureka:

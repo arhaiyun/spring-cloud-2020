@@ -3,8 +3,8 @@ package com.exodus.springcloud.service;
 import org.springframework.stereotype.Component;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/11 22:40
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @Component
 public class PaymentFallbackService implements PaymentHystrixService {

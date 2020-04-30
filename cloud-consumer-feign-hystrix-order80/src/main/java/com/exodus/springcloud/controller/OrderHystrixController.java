@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/11 21:05
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @RestController
 @Slf4j
@@ -30,8 +30,6 @@ public class OrderHystrixController {
         String result = paymentHystrixService.paymentInfo_Timeout(id);
         return  result;
     }
-
-
 
     @GetMapping("/consumer/payment/hystrix/ok/{id}")
     public String paymentInfo_OK(@PathVariable("id") Integer id){
