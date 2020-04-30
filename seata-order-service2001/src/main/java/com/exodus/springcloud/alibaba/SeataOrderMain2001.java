@@ -7,8 +7,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/18 21:09
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class) //取消数据源的自动创建
 @EnableDiscoveryClient

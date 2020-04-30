@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/15 21:04
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @RestController
 @RefreshScope // 支持Nacos的动态刷新功能

@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/14 14:42
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @SpringBootApplication
 public class StreamMQMain8802 {

@@ -2,8 +2,8 @@ package com.exodus.springcloud.alibaba.service;
 
 
 /**
- * @Author EiletXie
- * @Since 2020/3/18 22:58
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 public interface StorageService {
 

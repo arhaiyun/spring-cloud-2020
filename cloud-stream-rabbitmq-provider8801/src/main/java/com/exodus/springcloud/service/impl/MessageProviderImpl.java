@@ -10,8 +10,8 @@ import javax.annotation.Resource;
 import java.util.UUID;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/14 14:13
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @EnableBinding(Source.class) //定义消息的推送管道
 public class MessageProviderImpl implements IMessageProvider {

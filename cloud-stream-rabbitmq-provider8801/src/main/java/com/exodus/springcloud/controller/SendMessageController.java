@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/14 14:21
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @RestController
 public class SendMessageController {

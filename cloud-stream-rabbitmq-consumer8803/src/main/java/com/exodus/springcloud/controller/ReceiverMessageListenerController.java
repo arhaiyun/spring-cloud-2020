@@ -8,8 +8,8 @@ import org.springframework.messaging.Message;
 import org.springframework.stereotype.Component;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/14 15:43
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @Component
 @EnableBinding(Sink.class)

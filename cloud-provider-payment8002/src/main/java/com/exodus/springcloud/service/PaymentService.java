@@ -4,8 +4,8 @@ import com.exodus.springcloud.entities.Payment;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/9 12:00
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 public interface PaymentService {
 

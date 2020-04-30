@@ -1,8 +1,8 @@
 package com.exodus.springcloud.service;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/14 14:13
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 public interface IMessageProvider {
 

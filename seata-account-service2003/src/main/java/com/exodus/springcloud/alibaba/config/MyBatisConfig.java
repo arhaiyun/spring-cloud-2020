@@ -5,11 +5,11 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/18 21:13
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @Configuration
-@MapperScan({"com.eiletxie.springcloud.alibaba.dao"})
+@MapperScan({"com.arhaiyun.springcloud.alibaba.dao"})
 public class MyBatisConfig {
 
 

@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/17 19:39
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @RestController
 public class RateLimitController {

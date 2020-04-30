@@ -14,8 +14,8 @@ import org.springframework.core.io.support.ResourcePatternResolver;
 import javax.sql.DataSource;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/18 21:51
+ * @Author arhaiyun
+ * @Since 2020/4/30
  * 使用Seata对数据源进行代理
  */
 @Configuration

@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/18 14:53
+ * @Author arhaiyun
+ * @Since 2020/4/30
  */
 @FeignClient(value = "nacos-payment-provider",fallback = PaymentFallbackService.class)
 public interface PaymentService {
