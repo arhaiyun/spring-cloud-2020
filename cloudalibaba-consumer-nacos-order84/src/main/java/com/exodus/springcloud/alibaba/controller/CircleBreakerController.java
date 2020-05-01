@@ -22,37 +22,38 @@ import javax.annotation.Resource;
 @Slf4j
 public class CircleBreakerController {
 
-    public static  final  String SERVICE_URL = "http://nacos-payment-provider";
+    public static final String SERVICE_URL = "http://nacos-payment-provider";
 
     @Resource
     private RestTemplate restTemplate;
 
     @RequestMapping("/consumer/fallback/{id}")
 //    @SentinelResource(value = "fallback")
-//    @SentinelResource(value = "fallback",fallback ="handlerFallback")
-    @SentinelResource(value = "fallback",fallback ="handlerFallback",blockHandler = "blockHandler")
+//    @SentinelResource(value = "fallback",fallback ="handlerFallback") // fallback只负责业务异常，blockHandler只负责Sentinel控制台配置违规
+    @SentinelResource(value = "fallback", fallback = "handlerFallback", blockHandler = "blockHandler",
+            exceptionsToIgnore = {IllegalArgumentException.class})
     public CommonResult<Payment> fallback(@PathVariable Long id) {
-        CommonResult<Payment> result = restTemplate.getForObject(SERVICE_URL + "/paymentSQL/" + id,CommonResult.class,id);
+        CommonResult<Payment> result = restTemplate.getForObject(SERVICE_URL + "/paymentSQL/" + id, CommonResult.class, id);
 
-        if(id == 4){
+        if (id == 4) {
             throw new IllegalArgumentException("IllegalArgument ,非法参数异常...");
-        }else if(result.getData() == null) {
+        } else if (result.getData() == null) {
             throw new NullPointerException("NullPointerException,该ID没有对应记录，空指针异常");
         }
 
-        return  result;
+        return result;
     }
 
 
-    public CommonResult handlerFallback(@PathVariable Long id,Throwable e) {
-        Payment payment = new Payment(id,"null");
-        return new CommonResult(444,"异常handlerFallback，exception内容： " + e.getMessage(), payment);
+    public CommonResult handlerFallback(@PathVariable Long id, Throwable e) {
+        Payment payment = new Payment(id, "null");
+        return new CommonResult(444, "异常handlerFallback，exception内容： " + e.getMessage(), payment);
     }
 
 
-    public CommonResult blockHandler(@PathVariable Long id,BlockException e) {
-        Payment payment = new Payment(id,"null");
-        return new CommonResult(444,"blockHandler-sentinel 限流，BlockException： " + e.getMessage(), payment);
+    public CommonResult blockHandler(@PathVariable Long id, BlockException e) {
+        Payment payment = new Payment(id, "null");
+        return new CommonResult(444, "blockHandler-sentinel 限流，BlockException： " + e.getMessage(), payment);
     }
 
     //======= OpenFeign
@@ -60,7 +61,7 @@ public class CircleBreakerController {
     private PaymentService paymentService;
 
     @GetMapping(value = "/consumer/paymentSQL/{id}")
-    public CommonResult< Payment > paymentSQL(@PathVariable("id") Long id){
+    public CommonResult<Payment> paymentSQL(@PathVariable("id") Long id) {
         return paymentService.paymentSQL(id);
     }
 

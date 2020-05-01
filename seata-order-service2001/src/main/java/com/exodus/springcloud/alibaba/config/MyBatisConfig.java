@@ -13,5 +13,4 @@ import org.springframework.context.annotation.Configuration;
 @MapperScan({"com.arhaiyun.springcloud.alibaba.dao"})
 public class MyBatisConfig {
 
-
 }

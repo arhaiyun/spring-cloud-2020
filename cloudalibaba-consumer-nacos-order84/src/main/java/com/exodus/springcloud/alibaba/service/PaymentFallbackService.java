@@ -9,11 +9,10 @@ import org.springframework.stereotype.Component;
  * @Since 2020/4/30
  */
 @Component
-public class PaymentFallbackService implements PaymentService{
-
+public class PaymentFallbackService implements PaymentService {
 
     @Override
-    public CommonResult< Payment > paymentSQL(Long id) {
-        return new CommonResult<>(444,"服务降级返回，---PaymentFallbackService",new Payment(id,"ErrorSerial"));
+    public CommonResult<Payment> paymentSQL(Long id) {
+        return new CommonResult<>(444, "服务降级返回，---PaymentFallbackService", new Payment(id, "ErrorSerial"));
     }
 }
