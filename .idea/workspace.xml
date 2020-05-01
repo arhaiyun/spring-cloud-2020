@@ -279,55 +279,12 @@
       <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/bean/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/exodus/springcloud/ConfigClientMain3366.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/exodus/springcloud/ConfigClientMain3366.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/java/com/exodus/springcloud/HystrixDashboardMain9001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/java/com/exodus/springcloud/HystrixDashboardMain9001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/PaymentMain8002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/PaymentMain8002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/dao/PaymentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/exodus/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/exodus/springcloud/StreamMQMain8802.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/exodus/springcloud/StreamMQMain8802.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/exodus/springcloud/controller/ReceiverMessageListenerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/exodus/springcloud/controller/ReceiverMessageListenerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/exodus/springcloud/StreamMQMain8803.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/exodus/springcloud/StreamMQMain8803.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/exodus/springcloud/controller/ReceiverMessageListenerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/exodus/springcloud/controller/ReceiverMessageListenerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/StreamMQMain8801.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/StreamMQMain8801.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/controller/SendMessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/controller/SendMessageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/service/IMessageProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/service/IMessageProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/service/impl/MessageProviderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/exodus/springcloud/service/impl/MessageProviderImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/exodus/springcloud/alibaba/NacosConfigClientMain3377.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/exodus/springcloud/alibaba/NacosConfigClientMain3377.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/exodus/springcloud/alibaba/config/ConfigClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/exodus/springcloud/alibaba/config/ConfigClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/exodus/springcloud/alibaba/OrderNacosMain83.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/exodus/springcloud/alibaba/OrderNacosMain83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/exodus/springcloud/alibaba/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/exodus/springcloud/alibaba/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/exodus/springcloud/alibaba/controller/OrderNacosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/exodus/springcloud/alibaba/controller/OrderNacosController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/OrderMain84.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/OrderMain84.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/controller/CircleBreakerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/controller/CircleBreakerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/service/PaymentFallbackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/service/PaymentFallbackService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/exodus/springcloud/alibaba/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/exodus/springcloud/ailibaba/PaymentMain9001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/exodus/springcloud/ailibaba/PaymentMain9001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/exodus/springcloud/ailibaba/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/exodus/springcloud/ailibaba/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/exodus/springcloud/ailibaba/PaymentMain9002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/exodus/springcloud/ailibaba/PaymentMain9002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/exodus/springcloud/ailibaba/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/exodus/springcloud/ailibaba/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/exodus/springcloud/alibaba/PaymentMain9003.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/exodus/springcloud/alibaba/PaymentMain9003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/MainApp8401.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/MainApp8401.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/controller/FlowLimitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/controller/FlowLimitController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/controller/RateLimitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/controller/RateLimitController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/myhandler/CustomerBlockHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/exodus/springcloud/alibaba/myhandler/CustomerBlockHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/controller/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/dao/AccountDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/domain/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/exodus/springcloud/alibaba/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/SeataOrderMain2001.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/SeataOrderMain2001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/config/DataSourceProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/config/DataSourceProxyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/config/MyBatisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/domain/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/config/DataSourceProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/config/DataSourceProxyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/config/MyBatisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/dao/StorageDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/dao/StorageDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/domain/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/domain/Storage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/service/StorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/exodus/springcloud/alibaba/service/StorageService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-annotation/src/main/java/com/exodus/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/LICENSE" beforeDir="false" />
@@ -535,20 +492,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConfigClientMain3355">
-    <configuration name="ConfigCenterMain3344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.ConfigCenterMain3344" />
-      <module name="cloud-config-center-3344" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exodus.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainApp8401">
     <configuration name="ConfigClientMain3355" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.ConfigClientMain3355" />
       <module name="cloud-config-client-3355" />
@@ -562,12 +506,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaMain7001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.EurekaMain7001" />
-      <module name="cloud-eureka-server7001" />
+    <configuration name="MainApp8401" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.alibaba.MainApp8401" />
+      <module name="cloudalibaba-sentinel-service8401" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exodus.springcloud.*" />
+          <option name="PATTERN" value="com.exodus.springcloud.alibaba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -575,12 +519,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMain8001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.PaymentMain8001" />
-      <module name="cloud-provider-payment8001" />
+    <configuration name="NacosConfigClientMain3377" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.alibaba.NacosConfigClientMain3377" />
+      <module name="cloudalibaba-config-nacos-client3377" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exodus.springcloud.*" />
+          <option name="PATTERN" value="com.exodus.springcloud.alibaba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -588,9 +532,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T2" />
-      <module name="cloud-gateway-gateway9527" />
+    <configuration name="OrderNacosMain83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.alibaba.OrderNacosMain83" />
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exodus.springcloud.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.ailibaba.PaymentMain9001" />
+      <module name="cloudalibaba-provider-payment9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exodus.springcloud.ailibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -772,11 +735,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainApp8401" />
+        <item itemvalue="Application.NacosConfigClientMain3377" />
+        <item itemvalue="Application.OrderNacosMain83" />
+        <item itemvalue="Application.PaymentMain9001" />
         <item itemvalue="Application.ConfigClientMain3355" />
-        <item itemvalue="Application.ConfigCenterMain3344" />
-        <item itemvalue="Application.EurekaMain7001" />
-        <item itemvalue="Application.T2" />
-        <item itemvalue="Application.PaymentMain8001" />
       </list>
     </recent_temporary>
   </component>
@@ -852,6 +815,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="采用Seata来解决 订单、账户、库存微服务之间的全局事务问题" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2762" y="382" key="#Notifications" timestamp="1588304822823">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2762" y="382" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588304822823" />
     <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1588241619461">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -872,22 +839,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1409" y="118" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588065718639" />
-    <state width="1877" height="564" key="GridCell.Tab.0.bottom" timestamp="1588244050566">
+    <state width="1877" height="393" key="GridCell.Tab.0.bottom" timestamp="1588313271181">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="564" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588244050566" />
-    <state width="1877" height="564" key="GridCell.Tab.0.center" timestamp="1588244050565">
+    <state width="1877" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588313271181" />
+    <state width="1877" height="393" key="GridCell.Tab.0.center" timestamp="1588313271181">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="564" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588244050565" />
-    <state width="1877" height="564" key="GridCell.Tab.0.left" timestamp="1588244050565">
+    <state width="1877" height="393" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588313271181" />
+    <state width="1877" height="393" key="GridCell.Tab.0.left" timestamp="1588313271181">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="564" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588244050565" />
-    <state width="1877" height="564" key="GridCell.Tab.0.right" timestamp="1588244050566">
+    <state width="1877" height="393" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588313271181" />
+    <state width="1877" height="393" key="GridCell.Tab.0.right" timestamp="1588313271181">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="564" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588244050566" />
+    <state width="1877" height="393" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588313271181" />
     <state x="2451" y="182" key="Registry" timestamp="1588171049895">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -901,19 +868,23 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2560" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588217287540" />
-    <state x="3010" y="242" width="792" height="534" key="find.popup" timestamp="1588246300316">
+    <state x="2666" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588246338252">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2666" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588246338252" />
+    <state x="3010" y="242" width="792" height="534" key="find.popup" timestamp="1588246387364">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="253" width="688" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167329128" />
-    <state x="3010" y="242" width="792" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588246300316" />
+    <state x="3010" y="242" width="792" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588246387364" />
     <state x="334" y="215" key="new project wizard" timestamp="1588167748818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="334" y="215" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167748818" />
-    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1588242118847">
+    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1588311697497">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588242118847" />
+    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588311697497" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

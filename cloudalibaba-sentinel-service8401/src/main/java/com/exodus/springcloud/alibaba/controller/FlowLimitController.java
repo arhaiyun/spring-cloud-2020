@@ -20,11 +20,14 @@ public class FlowLimitController {
 
     @GetMapping("/testA")
     public String testA() {
+        log.info("testA.....");
         return "----testA";
     }
 
     @GetMapping("/testB")
     public String testB() {
+
+        log.info("testB.....");
         return "----testB";
     }
 
@@ -47,9 +50,9 @@ public class FlowLimitController {
     }
 
     @GetMapping("/testHotKey")
-    @SentinelResource(value = "testHotKey",blockHandler = "deal_testHotKey")
-    public String testHotKey(@RequestParam(value = "p1",required = false)String p1,
-                             @RequestParam(value = "p2",required = false)String p2) {
+    @SentinelResource(value = "testHotKey", blockHandler = "deal_testHotKey")
+    public String testHotKey(@RequestParam(value = "p1", required = false) String p1,
+                             @RequestParam(value = "p2", required = false) String p2) {
         return "----testHotKey";
     }
 
