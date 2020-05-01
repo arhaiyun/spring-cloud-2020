@@ -31,10 +31,11 @@ public class OrderServiceImpl implements OrderService {
      * 简单说:
      * 下订单->减库存->减余额->改状态
      * GlobalTransactional seata开启分布式事务,异常时回滚,name保证唯一即可
+     *
      * @param order 订单对象
      */
     @Override
-    @GlobalTransactional(name = "fsp-create-order",rollbackFor = Exception.class)
+    @GlobalTransactional(name = "fsp-create-order", rollbackFor = Exception.class)
     ///@GlobalTransactional(name = "fsp-create-order", rollbackFor = Exception.class)
     public void create(Order order) {
         // 1 新建订单
