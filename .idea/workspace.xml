@@ -459,8 +459,6 @@
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/bean/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/IdGeneratorSnowflake.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/IdGeneratorSnowflake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/impl/OrderServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../data-science-ipython-notebooks-master/.idea/data-science-ipython-notebooks-master.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../matplotlib-tutorial-master/.idea/matplotlib-tutorial-master.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../netty-learning-master.zip" beforeDir="false" />
