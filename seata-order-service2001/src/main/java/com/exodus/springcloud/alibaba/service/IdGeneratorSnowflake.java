@@ -42,7 +42,7 @@ public class IdGeneratorSnowflake {
     }
 
     public static void main(String[] args) {
-        // 1240536286826201088
+        // 1256248240039395328
         System.out.println(new IdGeneratorSnowflake().snowflakeId());
     }
 }

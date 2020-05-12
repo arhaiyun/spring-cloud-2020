@@ -3,11 +3,66 @@
   <component name="ChangeListManager">
     <list default="true" id="94bb4ff5-97b9-45c9-8df6-a75f136d59e8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/src/main/java/com/exodus/orm/test/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/src/main/java/com/exodus/orm/test/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/src/main/java/com/exodus/orm/test/entity/Book.mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/src/main/resources/miniORM.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/target/classes/com/exodus/orm/test/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/target/classes/com/exodus/orm/test/entity/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/target/classes/miniORM.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestMiniORM/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter-test/spring-boot-08-starter-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../雷丰阳Spring教程/spring-boot-08-starter/atguigu-spring-boot-starter/atguiguspringbootstarter.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../awesome-java-leetcode" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-best-practice/java-best-practice.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/main/java/com/exodus/design_patterns/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/main/java/com/exodus/leetcode/others/CountListIntegerSum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/main/java/com/exodus/netty/aio/AIOClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/main/java/com/exodus/netty/aio/AIOServer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/main/java/com/exodus/netty/aio/ServerMultiThread.java" afterDir="false" />
@@ -45,7 +100,6 @@
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/main/java/com/exodus/netty/nio/NioClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/test/java/ForkJoinTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-best-practice/src/test/java/PriorityThreadPoolExecutorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master/.travis.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master/LICENSE" afterDir="false" />
@@ -272,15 +326,148 @@
       <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master/visitor/src/main/java/me/zbl/visitor/ManagerVisitor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master/visitor/src/main/java/me/zbl/visitor/Unit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java_design_patterns-master/visitor/src/main/java/me/zbl/visitor/UnitVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python-projects/data-science-ipython-notebooks-master/.idea/data-science-ipython-notebooks-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python-projects/matplotlib-tutorial-master/.idea/matplotlib-tutorial-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_aop_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_beans_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_context_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_core_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_expression_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_test_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_tx_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_web_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__redis_clients_jedis_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/seckill.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/dao/SeckillDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/dao/SuccessKilledDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/dao/cache/RedisDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/dto/Exposer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/dto/SeckillExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/dto/SeckillResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/entity/Seckill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/entity/SuccessKilled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/enums/SeckillStateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/exception/RepeatKillException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/exception/SeckillCloseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/exception/SeckillException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/service/SeckillService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/service/impl/SeckillServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/java/org/seckill/web/SeckillController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/resources/mapper/SeckillDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/resources/mapper/SuccessKilledDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/resources/spring/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/sql/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/sql/seckill.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/jsp/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/jsp/common/tag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/jsp/detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/jsp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/commons-collections-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/commons-pool2-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/jackson-core-2.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/jackson-databind-2.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/jedis-2.7.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/junit-4.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/logback-classic-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/logback-core-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/mybatis-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/mybatis-spring-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.37.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/protostuff-api-1.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/protostuff-collectionschema-1.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/protostuff-core-1.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/protostuff-runtime-1.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/slf4j-api-1.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-aop-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-beans-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-context-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-core-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-expression-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-jdbc-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-test-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-tx-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-web-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/spring-webmvc-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/main/webapp/resources/js/seckill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/test/java/org/seckill/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/test/java/org/seckill/dao/SeckillDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/test/java/org/seckill/dao/SuccessKilledDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/test/java/org/seckill/dao/cache/RedisDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seckill/src/test/java/org/seckill/service/impl/SeckillServiceImplTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../springcloud-2020/cloud-provider-payment8001/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../springcloud-2020/cloud-provider-payment8001/src/main/java/com/exodus/springcloud/PaymentMain8001.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../springcloud-2020/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../springcloud-2020/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tuling-projects/tuling-redis/redis-client/redis-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tuling-projects/tuling-redis/redis-protocol/redis-protocol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tuling-projects/tuling-redis/rediscluster-client/rediscluster-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1211.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-best-practice/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../seckill/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/Java_Best_Practices.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java_Best_Practices/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/bean/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ThreadPoolDemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/IdGeneratorSnowflake.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/IdGeneratorSnowflake.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/exodus/springcloud/alibaba/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-science-ipython-notebooks-master/.idea/data-science-ipython-notebooks-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matplotlib-tutorial-master/.idea/matplotlib-tutorial-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netty-learning-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-birdies.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-annotation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-annotation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-annotation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-annotation/src/main/java/com/exodus/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/LICENSE" beforeDir="false" />
@@ -389,6 +576,52 @@
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/spring-bean/src/main/resources/META-INF/bean-instantiation-context.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/spring-bean/src/main/resources/META-INF/services/org.geekbang.thinking.in.spring.bean.factory.UserFactory" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thinking-in-spring/spring-bean/src/main/resources/META-INF/special-bean-instantiation-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld-quick/spring-boot-01-helloworld-quick.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-02-config-02/spring-boot-02-config-02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-02-config-autoconfig/spring-boot-02-config-autoconfig.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-02-config/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-02-config/spring-boot-02-config.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-03-logging/spring-boot-03-logging.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-08-starter-test/spring-boot-08-starter-test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../代码/spring-boot-08-starter/atguigu-spring-boot-starter/atguiguspringbootstarter.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -488,13 +721,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OrderMain84">
-    <configuration name="MainApp8401" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.alibaba.MainApp8401" />
-      <module name="cloudalibaba-sentinel-service8401" />
+  <component name="RunManager" selected="Application.IdGeneratorSnowflake">
+    <configuration name="IdGeneratorSnowflake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.alibaba.service.IdGeneratorSnowflake" />
+      <module name="seata-order-service2001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exodus.springcloud.alibaba.*" />
+          <option name="PATTERN" value="com.exodus.springcloud.alibaba.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -502,9 +735,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NacosConfigClientMain3377" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.alibaba.NacosConfigClientMain3377" />
-      <module name="cloudalibaba-config-nacos-client3377" />
+    <configuration name="MainApp8401" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exodus.springcloud.alibaba.MainApp8401" />
+      <module name="cloudalibaba-sentinel-service8401" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.exodus.springcloud.alibaba.*" />
@@ -731,11 +964,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IdGeneratorSnowflake" />
         <item itemvalue="Application.MainApp8401" />
         <item itemvalue="Application.PaymentMain9003" />
         <item itemvalue="Application.PaymentMain9004" />
         <item itemvalue="Application.OrderMain84" />
-        <item itemvalue="Application.NacosConfigClientMain3377" />
       </list>
     </recent_temporary>
   </component>
@@ -835,22 +1068,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1409" y="118" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588065718639" />
-    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1588333492499">
+    <state width="1877" height="344" key="GridCell.Tab.0.bottom" timestamp="1588348262445">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588333492499" />
-    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1588333492498">
+    <state width="1877" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588348262445" />
+    <state width="1877" height="344" key="GridCell.Tab.0.center" timestamp="1588348262445">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588333492498" />
-    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1588333492498">
+    <state width="1877" height="344" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588348262445" />
+    <state width="1877" height="344" key="GridCell.Tab.0.left" timestamp="1588348262445">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588333492498" />
-    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1588333492498">
+    <state width="1877" height="344" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588348262445" />
+    <state width="1877" height="344" key="GridCell.Tab.0.right" timestamp="1588348262445">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588333492498" />
+    <state width="1877" height="344" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588348262445" />
     <state x="2451" y="182" key="Registry" timestamp="1588171049895">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -868,19 +1101,19 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2666" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588246338252" />
-    <state x="3010" y="242" width="792" height="534" key="find.popup" timestamp="1588332474103">
+    <state x="3010" y="242" width="792" height="534" key="find.popup" timestamp="1588347758858">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="253" width="688" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167329128" />
-    <state x="3010" y="242" width="792" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588332474103" />
+    <state x="3010" y="242" width="792" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588347758858" />
     <state x="334" y="215" key="new project wizard" timestamp="1588167748818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="334" y="215" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588167748818" />
-    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1588330067323">
+    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1588344686390">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588330067323" />
+    <state x="3016" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588344686390" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
